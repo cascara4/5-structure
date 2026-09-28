@@ -9,7 +9,8 @@ body {
 .site-header {
     background-color: burlywood;
     padding: 30px;
-    
+    margin-bottom: 20px;
+
     color: rgb(148, 116, 74);
     font-size: large;
 }
@@ -18,6 +19,30 @@ body {
     margin: 0;
 }
 
-.un-bullet {
+.nav {
     list-style: none;
+    margin-left: -40px;
+}
+
+.nav-links {
+    color: rgb(141, 90, 27);
+}
+
+.main-content {
+    background-color: rgb(218, 175, 161);
+    padding: 30px;
+    margin-bottom: 20px;
+
+    color: rgb(141, 87, 71);
+}
+
+.site-footer {
+    background-color: rgb(169, 210, 220);
+    padding: 30px;
+
+    color: rgb(66, 119, 132);
+}
+
+.callout {
+    font-weight: 800;
 }
