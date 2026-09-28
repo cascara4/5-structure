@@ -1,0 +1,23 @@
+html {
+    background-color: bisque;
+}
+
+body {
+    margin: 0;
+}
+
+.site-header {
+    background-color: burlywood;
+    padding: 30px;
+    
+    color: rgb(148, 116, 74);
+    font-size: large;
+}
+
+.page-name {
+    margin: 0;
+}
+
+.un-bullet {
+    list-style: none;
+}
